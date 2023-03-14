@@ -2,7 +2,9 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+.idea
+results_*/
+AnimeGANv2/
 # C extensions
 *.so
 
